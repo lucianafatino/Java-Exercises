@@ -1,0 +1,1 @@
+Exercícios de Java oferecidos durante o treinamento Start da Capgemini. Aqui foram ensinados e aplicados os conceitos de Lógica de programação, tipos de dados, operadores e classes (POO).
