@@ -1,0 +1,14 @@
+# POO
+- Paradigma de programação que se baseia na ideia de representar objetos do mundo real como objetos no código. Estes objetos possuem propriedades (atributos) e comportamentos (métodos), e interagem uns com os outros através de mensagens. A Programação Orientada a Objetos é usada para construir aplicações mais organizadas, flexíveis e reutilizáveis.
+
+## Polimorfismo
+- Em programação, polimorfismo se refere à capacidade de objetos de diferentes tipos (mas relacionados) de responderem a um mesmo método de forma diferente. Isto permite que um mesmo código possa trabalhar com objetos diferentes, sem a necessidade de saber qual é o tipo exato de objeto que está lidando. O polimorfismo é importante porque ajuda a criar código mais genérico, flexível e reutilizável.
+
+## Herança
+- Em programação, a herança permite que você crie uma nova classe baseada em uma classe já existente, reutilizando seus atributos e métodos. A classe derivada é chamada de classe filha ou subclasse, enquanto a classe original é chamada de classe pai ou superclasse. A herança é útil porque permite que você modele relações de "é-um" de forma mais fácil e clara, e ajuda a criar código mais organizado e reutilizável. Além disso, a herança permite a especialização de objetos, onde objetos mais específicos possuem características adicionais em relação a objetos mais genéricos.
+
+## Abstração
+- Significa representar as características mais importantes de um objeto, ignorando detalhes desnecessários. Em programação, a abstração é alcançada através da definição de classes abstratas, que são classes que não podem ser instanciadas diretamente, mas que servem como base para outras classes. As classes abstratas definem o comportamento e as propriedades comuns a todos os objetos relacionados, fornecendo uma representação simplificada e genérica do mundo real. A abstração é importante porque ajuda a simplificar a modelagem de objetos complexos, tornando o código mais fácil de entender e manter. Além disso, a abstração permite que você crie sistemas modulares e reutilizáveis, que podem ser facilmente adaptados às mudanças no mundo real.
+
+## Encapsulamento
+ - Significa agrupar dados e comportamentos relacionados em um único objeto. Em programação, o encapsulamento é alcançado através da definição de classes, que encapsulam dados (atributos) e comportamentos (métodos) em uma única unidade. O encapsulamento é importante porque ajuda a proteger os dados internos de um objeto de acesso externo não autorizado, garantindo a integridade dos dados e evitando efeitos colaterais indesejados. Além disso, o encapsulamento permite que você altere o comportamento de um objeto sem afetar outros objetos ou partes do sistema, tornando o código mais flexível e fácil de manter.
